@@ -1,0 +1,54 @@
+#top,
+button,
+a,
+.call-us,
+.breadcrumb,
+#column-left,
+footer,
+.mobile-menu-area,
+.search-top-cart {
+    display: none;
+}
+
+#logo a {
+    display: block!important;
+}
+
+header .col-md-3,
+#logo {
+    width: 100%;
+    padding: 0;
+    margin: 0px;
+}
+
+#logo img {
+    position: relative;
+    top: 0%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#content {
+    width: 100%;
+    max-width: 100%;
+    float: none;
+    padding: 0;
+    margin: 0;
+}
+
+.p_w1 {
+    width: 1px;
+}
+
+table,
+td {
+    margin-bottom: 30px;
+    border: 1px solid #000;
+}
+
+table {
+    width: 100%;
+    max-width: 99%;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
